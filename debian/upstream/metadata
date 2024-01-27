@@ -1,0 +1,7 @@
+---
+Archive: CPAN
+Bug-Database: https://rt.cpan.org/Public/Dist/Display.html?Name=MooseX-Role-WithOverloading
+Bug-Submit: bug-MooseX-Role-WithOverloading@rt.cpan.org
+Contact: Florian Ragwitz <rafl@debian.org>, Tomas Doran <bobtfish@bobtfish.net>
+Repository: https://github.com/moose/MooseX-Role-WithOverloading.git
+Repository-Browse: https://github.com/moose/MooseX-Role-WithOverloading
